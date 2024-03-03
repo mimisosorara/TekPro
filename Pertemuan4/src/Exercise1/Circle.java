@@ -2,7 +2,7 @@ package Exercise1;
 
 public class Circle {
     private double radius;
-    private String color;
+    private String color;   // Penambahan string radius
     public Circle(){
         radius = 1.0;
         color = "red";
@@ -27,9 +27,11 @@ public class Circle {
         return color;
     }
     public void setColor(String color) {
+
         this.color = color;
     }
     public String toString(){
+
         return "Exercise1.Circle[radius=" + radius + " color=" + color + "]";
     }
 }
