@@ -1,0 +1,36 @@
+******************************************************
+Number of employees working as MANAGER are: 1
+******************************************************
+1. Manager Details:
+Store Details: EinerStore
+Employee Name: John Doe
+Base Pay: $20000.0
+Number of Hours worked: 20.1hrs
+Payment Rate per hour: $1.5/hr
+Total Sales in store: $100000.0
+Sales done: $2.0
+Percentage of sales done: 0.00%
+Gross Payment: $20230.5
+Remaining store revenue: $65111.853015
+******************************************************
+Number of employees working as SALES ASSOCIATES are: 1
+******************************************************
+Store Details: ZweiterStore
+Employee Name: Jane Doe
+Base Pay: $12000.0
+Number of Hours worked: 15.0hrs
+Payment Rate per hour: $1.1/hr
+Sales Rate: 1000.0%
+Total commission: $1200.0
+Gross Payment: $13216.5
+******************************************************
+Number of employees working as CASHIERS are: 1
+******************************************************
+Store Details: DreinerStore
+Employee Name: Johannes Doe
+Base Pay: $8000.0
+Number of Hours worked: 12.0hrs
+Payment Rate per hour: $0.9/hr
+
+Total commission: $0.0
+Gross Payment: $10.8

@@ -1,0 +1,22 @@
+Manager
+EinerStore
+John Doe
+20000.00
+20.1
+1.5
+2
+100000
+Sales
+ZweiterStore
+Jane Doe
+12000.00
+15
+1.1
+10
+Cashier
+DreinerStore
+Johannes Doe
+8000.00
+12
+0.9
+8
