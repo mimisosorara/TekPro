@@ -3,7 +3,7 @@ Number of employees working as MANAGER are: 1
 ******************************************************
 1. Manager Details:
 Store Details: EinerStore
-Employee Name: John Doe
+Kasus1.Employee Name: John Doe
 Base Pay: $20000.0
 Number of Hours worked: 20.1hrs
 Payment Rate per hour: $1.5/hr
@@ -16,7 +16,7 @@ Remaining store revenue: $65111.853015
 Number of employees working as SALES ASSOCIATES are: 1
 ******************************************************
 Store Details: ZweiterStore
-Employee Name: Jane Doe
+Kasus1.Employee Name: Jane Doe
 Base Pay: $12000.0
 Number of Hours worked: 15.0hrs
 Payment Rate per hour: $1.1/hr
@@ -27,7 +27,7 @@ Gross Payment: $13216.5
 Number of employees working as CASHIERS are: 1
 ******************************************************
 Store Details: DreinerStore
-Employee Name: Johannes Doe
+Kasus1.Employee Name: Johannes Doe
 Base Pay: $8000.0
 Number of Hours worked: 12.0hrs
 Payment Rate per hour: $0.9/hr
