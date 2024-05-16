@@ -22,6 +22,6 @@ public class Paint {
 //---------------------------------------------------
     public double amount(Shape s) {
         System.out.println("Computing amount for " + s);
-        return s.area() / coverage;  // Correct return statement
+        return s.area() / coverage;  // Correct return org.example.statement
     }
 }

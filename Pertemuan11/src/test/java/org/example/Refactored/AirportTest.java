@@ -1,11 +1,11 @@
-package Refactored;
+package org.example.Refactored;
 
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.DisplayName;
 import org.junit.jupiter.api.Nested;
 import org.junit.jupiter.api.Test;
 
-import static org.junit.jupiter.api.Assertions.*;
+import static org.junit.jupiter.api.Assertions.assertEquals;
 
 public class AirportTest {
     @DisplayName("Given there is an economy flight")

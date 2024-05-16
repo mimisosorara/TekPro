@@ -1,9 +1,9 @@
-package Refactored;
+package org.example;
 
 public class Airport {
     public static void main(String[] args) {
-        Flight economyFlight = new EconomyFlight("1");
-        Flight businessFlight = new BusinessFlight("2");
+        Flight economyFlight = new Flight("1", "Economy");
+        Flight businessFlight = new Flight("2", "Business");
 
         Passenger james = new Passenger("James", true);
         Passenger mike = new Passenger("Mike", false);

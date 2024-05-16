@@ -1,4 +1,4 @@
-package Refactored;
+package org.example.Refactored;
 
 public class Passenger {
     private String name;

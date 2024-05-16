@@ -1,4 +1,4 @@
-package Refactored;
+package org.example.Refactored;
 
 import java.util.ArrayList;
 import java.util.Collections;

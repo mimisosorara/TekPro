@@ -1,4 +1,4 @@
-package Refactored;
+package org.example.Refactored;
 
 public class BusinessFlight extends Flight{
     public BusinessFlight(String id) {
